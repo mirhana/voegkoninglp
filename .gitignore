@@ -1,0 +1,7 @@
+# Originele foto's en video (bronbestanden, niet nodig voor de website)
+pictures/
+
+# Systeembestanden
+Thumbs.db
+desktop.ini
+.DS_Store
